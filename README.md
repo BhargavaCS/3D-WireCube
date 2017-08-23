@@ -2,11 +2,11 @@
 
 To Compile PureScript File
 
-bower update
+->bower update
 
-pulp browserify --to "sbrOutput.js"
+->pulp browserify --to "sbrOutput.js"
 
-And Then Open index.html in browser to view Ouput 
+->And Then Open index.html in browser to view Ouput 
 
 To Play with 3D Wire Cube:
  http://www.bhargavaram.com.s3-website.us-east-2.amazonaws.com/
